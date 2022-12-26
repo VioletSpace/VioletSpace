@@ -1,5 +1,5 @@
 # Hi, I’m <a href="https://pipinspace.github.io/" color="white">PipIn<span color="#b32835">Space</span></a>:wave::
-### Current <span color="#b32835">Project</span>:satellite::
+### Current <span color="#b32835">Project</span>: 🛰️:
 
 <br>
 <p align="center">
