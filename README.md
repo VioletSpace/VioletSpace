@@ -23,8 +23,24 @@
 >I am currently focused on game development in C# using the Unity game engine but I have worked with Java as well as Python and HTML/CSS/JS<br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipinspace&show_icons=true&theme=swift) 
-
+<span width="100%">
+  <table width="100%" style="border-style: none">
+    <tbody width="100%">
+    <tr width="100%" border-style="none">
+      <td width="60%" border-style="none">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=pipinspace&show_icons=true&theme=swift" />
+        </a>
+      </td>
+      <td width="40%" border-style="none">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipinspace&show_icons=true&theme=swift"/>
+        </a>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</span>
 
 <!---
 PipInSpace/PipInSpace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
