@@ -4,23 +4,23 @@
 <br>
 <p align="center">
   <a href="https://github.com/FN-2189/SCS">
-    <img src="https://raw.githubusercontent.com/FN-2189/SCS/master/ReadMeResources/scslogoclean.png" width="60%"/>
+    <img src="https://repository-images.githubusercontent.com/605166637/d1e24e9e-178e-4ca3-92d7-638996106ec6" width="60%"/>
   </a>
 </p>
 <br>
 
-> <a href="https://github.com/FN-2189/SCS" color="#b32835">SCS</a> is a space battle simulator with near-future technology setting aiming to achieve relatively realistic space combat. It is a open source game made in the Unity game engine. Almost all assets and all scripts were created by us. <br>
-> Co-author: <a href="https://github.com/FN-2189" color="#b32835">FN 2189</a>
+> <a href="https://github.com/PipInSpace/IonSolver">IonSolver</a> is a Ion Engine simulation software written in the rust programming language. It is currently in the early development phase with the first fluid simulation implementation functional.<br>
+> Co-authors: <a href="https://github.com/FN-2189">FN 2189</a> and <a href="https://github.com/TudbuT">TudbuT</a>
 
 ---
 ### My <span color="#b32835">Skills</span>:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,html,css,js,nodejs,py,blender,unity,github,visualstudio,vscode,idea,arduino&theme=light&icon_color=b32835" />
+    <img src="https://skillicons.dev/icons?i=cs,rust,html,css,js,unity,github,python&icon_color=b32835" />
   </a>
 </p>
 
->I am currently focused on game development in C# using the Unity game engine but I have worked with Java as well as Python and HTML/CSS/JS<br>
+>I am currently focused on the developement of IonSolver, but I have worked with Java as well as Python, HTML/CSS/JS and have done game development in C# using the Unity game engine<br>
 <br>
 
 <span width="100%">
