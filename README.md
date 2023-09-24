@@ -16,7 +16,7 @@
 ### My <span color="#b32835">Skills</span>:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,rust,html,css,js,unity,github,python&icon_color=b32835" />
+    <img src="https://skillicons.dev/icons?i=cs,rust,html,css,js,godot,github,python&icon_color=b32835" />
   </a>
 </p>
 
