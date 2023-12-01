@@ -4,7 +4,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/PipInSpace/IonSolver">
-    <img src="https://repository-images.githubusercontent.com/605166637/d1e24e9e-178e-4ca3-92d7-638996106ec6" width="60%"/>
+    <img src="https://github.com/PipInSpace/IonSolver/raw/main/icons/LogoIonSolver.png?raw=true" width="60%"/>
   </a>
 </p>
 <br>
