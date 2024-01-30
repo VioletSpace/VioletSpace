@@ -1,30 +1,33 @@
-# Hi, I’m <a href="https://pipinspace.github.io/" color="white">PipIn<span color="#b32835">Space</span></a>:wave::
-### Current <span color="#b32835">Project</span>: 🛰️:
+# Hi, I’m <a href="https://pipinspace.github.io/" >PipInSpace</a> 👋
+## Current Project🛰️:
 
 <br>
 <p align="center">
   <a href="https://github.com/PipInSpace/IonSolver">
-    <img src="https://github.com/PipInSpace/IonSolver/raw/main/icons/LogoIonSolver.png?raw=true" width="60%"/>
+    <img src="https://github.com/PipInSpace/IonSolver/raw/main/icons/LogoIonSolver.png?raw=true" width="80%"/>
   </a>
 </p>
 <br>
 
-> <a href="https://github.com/PipInSpace/IonSolver">IonSolver</a> is a Ion Engine simulation software written in the rust programming language. It is currently in the early development phase with the first fluid simulation implementation functional.<br>
-> Co-authors: <a href="https://github.com/FN-2189">FN 2189</a> and <a href="https://github.com/TudbuT">TudbuT</a>
+> <a href="https://github.com/PipInSpace/IonSolver">IonSolver</a> is a Ion Engine simulation software written in the rust programming language.
+> It is still in development, with a GPU-accelerated fluid simulation implementation and the basics of magnetohydrodynamics + a basic GUI app functional.
+> A more accurate coupled implementation of electrodynamic effects on the fluid is in the works. <br>
+> Co-author: <a href="https://github.com/FN-2189">FN 2189</a>
 
 ---
-### My <span color="#b32835">Skills</span>:
+## My Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,rust,html,css,js,godot,github,python&icon_color=b32835" />
+    <img src="https://skillicons.dev/icons?i=rust,cs,godot,java,html,css,js&icon_color=b32835" />
   </a>
 </p>
 
->I am currently focused on the developement of IonSolver, but I have worked with Java as well as Python, HTML/CSS/JS and have done game development in C# using the Unity game engine<br>
+>I am currently focused on the developement of IonSolver, a magnetohydrodynamic simulation software utilizing GPU acceleration written in Rust + OpenCL.
+>I mainly work with the languages Rust, C# and Java as well as HTML/CSS/JS for web developement and I have dabbled in game development using C# and the Unity and Godot game engines<br>
 <br>
 
-<span width="100%">
-  <table width="100%" style="border-style: none">
+<span width="100%" align="center">
+  <table width="100%" style="border-style: none" align="center">
     <tbody width="100%">
     <tr width="100%" border-style="none">
       <td width="60%" border-style="none">
@@ -43,9 +46,5 @@
 </span>
 <br>
 <p align="center">
-  <a href="https://pipinspace.github.io/" color="white">Web<span color="#b32835">site</span></a>
+  <a href="https://pipinspace.github.io/">My Website</a>
 </p>
-<!---
-PipInSpace/PipInSpace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
