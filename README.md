@@ -4,13 +4,17 @@ I am a selftaught programmer mostly working on high performance computing in Rus
 
 ## Current Project🛰️:
 
-<br>
 <p align="center">
   <a href="https://github.com/PipInSpace/IonSolver">
-    <img src="https://github.com/PipInSpace/IonSolver/raw/main/icons/LogoIonSolver.png?raw=true" width="80%"/>
+    <!--<img src="https://github.com/PipInSpace/IonSolver/raw/main/icons/LogoIonSolver.png?raw=true" width="80%"/>-->
+    <!--![CardClearDark](https://github.com/PipInSpace/PipInSpace/assets/79136709/9d6f3849-6caa-4419-b5c9-dc44affa8178)-->
+    <!--![CardClearLight](https://github.com/PipInSpace/PipInSpace/assets/79136709/228f0279-a389-42de-a62d-15177ee31db7)-->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PipInSpace/PipInSpace/assets/79136709/9d6f3849-6caa-4419-b5c9-dc44affa8178">
+      <img alt="IonSolver logo" width="80%" src="https://github.com/PipInSpace/PipInSpace/assets/79136709/228f0279-a389-42de-a62d-15177ee31db7">
+    </picture>
   </a>
 </p>
-<br>
 
 <a href="https://github.com/PipInSpace/IonSolver">IonSolver</a> is a Ion Engine simulation software written in the rust programming language.
 It is still in development, with a GPU-accelerated fluid simulation implementation and the basics of magnetohydrodynamics + a basic GUI app functional.
