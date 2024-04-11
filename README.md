@@ -1,6 +1,6 @@
 # Hi, I’m <a href="https://pipinspace.github.io/" >PipInSpace</a> 👋
 
-I am a selftaught programmer mostly working on high performance computing in Rust and OpenCL.
+I mostly work on high performance computing in Rust and OpenCL.
 
 ## Current Project🛰️:
 
