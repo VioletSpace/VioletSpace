@@ -1,7 +1,7 @@
 ## About Me
 
 Hi  👋, I’m <a href="https://pipinspace.github.io/" >PipInSpace</a>. I work on high performance computing in Rust and OpenCL and different smaller projects.<br>
-🏳️‍⚧️ Pronouns: She/Her
+Pronouns: She/Her
 
 My current project is: 
 
