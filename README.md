@@ -1,7 +1,6 @@
 ## About Me
 
 👋 Hi, I’m <a href="https://pipinspace.github.io/" >Johanna</a>! I work on high performance computing in Rust and OpenCL and different smaller projects.<br>
-Pronouns: She/Her
 
 My current project is: 
 
@@ -17,19 +16,22 @@ My current project is:
   </a>
 </p>
 
-<a href="https://github.com/PipInSpace/IonSolver">IonSolver</a> is a Ion Engine simulation software written in the rust programming language.
-It is still in development, with a GPU-accelerated fluid simulation implementation and the basics of magnetohydrodynamics + a basic GUI app functional.
-A more accurate coupled implementation of electrodynamic effects on the fluid is in the works. <br>
+<a href="https://github.com/PipInSpace/IonSolver">IonSolver</a> is a magnetohydrodynamic simulation software using an extended Lattice Boltzmann method
+implemented in Rust and OpenCL. <br>
+The software features both a single-node and multi-node execution model where the simulation is either split between
+multiple GPUs on a single compute node or split into seperate processes running on multiple compute nodes. IonSolver can accurately simulate the pehavious of 
+conducting fluids like plasma in strong external electric and magnetic fields.<br>
 
 ## My Skills
-<p align="center">
+<!--<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,cs,godot,java,html,css,js&icon_color=b32835" />
   </a>
-</p>
+</p>-->
 
 I currently focus on high performance computing with Rust + OpenCL and GPU acceleration for physics simulations.
-I have mainly worked with Rust, OpenCL C, C# and Java as well as HTML/CSS/JS for web developement. I have dabbled in game development using C# and the Unity and Godot game engines<br>
+I have mainly worked with Rust, OpenCL C, C# and Java as well as HTML/CSS/JS for web developement. I have experimented with game development using C# and the Unity and Godot game engines.
+I am very interested in physics, with a focus on astrophysics and magnetohydrodynamics.<br>
 <br>
 
 <p align="center">
@@ -38,5 +40,5 @@ I have mainly worked with Rust, OpenCL C, C# and Java as well as HTML/CSS/JS for
 </p>
 <br>
 <p align="center">
-  <a href="https://pipinspace.github.io/">💜 My Website</a>
+  <a href="https://pipinspace.github.io/">My Website 💜</a>
 </p>
