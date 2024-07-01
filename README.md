@@ -19,7 +19,7 @@ My current project is:
 <a href="https://github.com/PipInSpace/IonSolver">IonSolver</a> is a magnetohydrodynamic simulation software using an extended Lattice Boltzmann method
 implemented in Rust and OpenCL. <br>
 The software features both a single-node and multi-node execution model where the simulation is either split between
-multiple GPUs on a single compute node or split into seperate processes running on multiple compute nodes. IonSolver can accurately simulate the pehavious of 
+multiple GPUs on a single compute node or split into seperate processes running on multiple compute nodes. IonSolver can accurately simulate the behaviours of 
 conducting fluids like plasma in strong external electric and magnetic fields.<br>
 
 ## My Skills
