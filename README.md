@@ -1,22 +1,22 @@
 ## About Me
 
-👋 Hi, I’m <a href="https://pipinspace.github.io/" >Johanna</a>! I work on high performance computing in Rust and OpenCL and different smaller projects.<br>
+👋 Hi, I’m <a href="https://violetspace.github.io/" >Johanna</a>! I work on high performance computing in Rust and OpenCL and different smaller projects.<br>
 
 My current project is: 
 
 <p align="center">
-  <a href="https://github.com/PipInSpace/IonSolver">
+  <a href="https://github.com/VioletSpace/IonSolver">
     <!--<img src="https://github.com/PipInSpace/IonSolver/raw/main/icons/LogoIonSolver.png?raw=true" width="80%"/>-->
     <!--![CardClearDark](https://github.com/PipInSpace/PipInSpace/assets/79136709/9d6f3849-6caa-4419-b5c9-dc44affa8178)-->
     <!--![CardClearLight](https://github.com/PipInSpace/PipInSpace/assets/79136709/228f0279-a389-42de-a62d-15177ee31db7)-->
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PipInSpace/PipInSpace/assets/79136709/9d6f3849-6caa-4419-b5c9-dc44affa8178">
-      <img alt="IonSolver logo" width="80%" src="https://github.com/PipInSpace/PipInSpace/assets/79136709/228f0279-a389-42de-a62d-15177ee31db7">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VioletSpace/VioletSpace/assets/79136709/9d6f3849-6caa-4419-b5c9-dc44affa8178">
+      <img alt="IonSolver logo" width="80%" src="https://github.com/VioletSpace/VioletSpace/assets/79136709/228f0279-a389-42de-a62d-15177ee31db7">
     </picture>
   </a>
 </p>
 
-<a href="https://github.com/PipInSpace/IonSolver">IonSolver</a> is a magnetohydrodynamic simulation software using an extended Lattice Boltzmann method
+<a href="https://github.com/VioletSpace/IonSolver">IonSolver</a> is a magnetohydrodynamic simulation software using an extended Lattice Boltzmann method
 implemented in Rust and OpenCL. <br>
 The software features both a single-node and multi-node execution model where the simulation is either split between
 multiple GPUs on a single compute node or split into seperate processes running on multiple compute nodes. IonSolver can accurately simulate the behaviours of 
@@ -35,10 +35,10 @@ I am very interested in physics, with a focus on astrophysics and magnetohydrody
 <br>
 
 <p align="center">
-  <img margin="auto" src="https://github-readme-stats.vercel.app/api?username=pipinspace&show_icons=true&theme=material-palenight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipinspace&show_icons=true&theme=material-palenight"/>
+  <img margin="auto" src="https://github-readme-stats.vercel.app/api?username=violetspace&show_icons=true&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=violetspace&show_icons=true&theme=material-palenight"/>
 </p>
 <br>
 <p align="center">
-  <a href="https://pipinspace.github.io/">My Website 💜</a>
+  <a href="https://violetspace.github.io/">My Website 💜</a>
 </p>
