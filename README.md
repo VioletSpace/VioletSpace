@@ -1,6 +1,7 @@
 ## About Me
 
-👋 Hi, I’m <a href="https://violetspace.github.io/" >Johanna</a>! I work on high performance computing in Rust and OpenCL and different smaller projects.<br>
+👋 Hi, I’m <a href="https://violetspace.github.io/" >Johanna</a>! I work on high performance computing
+in Rust and OpenCL and different smaller projects.
 
 My current project is: 
 
@@ -17,11 +18,12 @@ My current project is:
   </a>
 </p>
 
-<a href="https://github.com/VioletSpace/IonSolver">IonSolver</a> is a magnetohydrodynamic simulation software using an extended Lattice Boltzmann method
-implemented in Rust and OpenCL. <br>
-The software features both a single-node and multi-node execution model where the simulation is either split between
-multiple GPUs on a single compute node or split into seperate processes running on multiple compute nodes. IonSolver can accurately simulate the behaviours of 
-conducting fluids like plasma in strong external electric and magnetic fields.<br>
+<a href="https://github.com/VioletSpace/IonSolver">IonSolver</a> is a magnetohydrodynamic simulation
+software using an extended Lattice Boltzmann method implemented in Rust and OpenCL. <br>
+The software features both a single-node and multi-node execution model where the simulation is either
+split between multiple GPUs on a single compute node or split into seperate processes running on
+multiple compute nodes. IonSolver can accurately simulate the behaviours of conducting fluids like
+plasma in strong external electric and magnetic fields.<br>
 
 ## My Skills
 <!--<p align="center">
@@ -30,8 +32,9 @@ conducting fluids like plasma in strong external electric and magnetic fields.<b
   </a>
 </p>-->
 
-I currently focus on high performance computing with Rust + OpenCL and GPU acceleration for physics simulations.
-I have mainly worked with Rust, OpenCL C, C# and Java as well as HTML/CSS/JS for web developement. I have experimented with game development using C# and the Unity and Godot game engines.
+I currently focus on high performance computing with Rust + OpenCL and GPU acceleration for physics
+simulations, as well as array programming in Dyalog APL.
+I have mainly worked with Rust, OpenCL C, Java and APL but am proficient in a number of other languages.
 I am studying physics, with a focus on astrophysics and magnetohydrodynamics.<br>
 <br>
 
