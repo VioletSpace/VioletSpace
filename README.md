@@ -35,11 +35,11 @@ I have mainly worked with Rust, OpenCL C, C# and Java as well as HTML/CSS/JS for
 I am studying physics, with a focus on astrophysics and magnetohydrodynamics.<br>
 <br>
 
-<p align="center">
+<!--<p align="center">
   <img margin="auto" src="https://github-readme-stats.vercel.app/api?username=violetspace&show_icons=true&theme=material-palenight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=violetspace&show_icons=true&theme=material-palenight"/>
 </p>
-<br>
+<br>-->
 <p align="center">
   <a href="https://violetspace.github.io/">My Website</a>
 </p>
