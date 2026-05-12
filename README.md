@@ -13,7 +13,7 @@ My current project is:
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VioletSpace/VioletSpace/assets/79136709/9d6f3849-6caa-4419-b5c9-dc44affa8178">
       <img alt="IonSolver logo" width="80%" src="https://github.com/VioletSpace/VioletSpace/assets/79136709/228f0279-a389-42de-a62d-15177ee31db7">
     </picture>-->
-     <img alt="IonSolver Collage" width="100%" src="https://github.com/VioletSpace/VioletSpace/blob/main/IonSolver-collage.png?raw=true">
+     <img alt="IonSolver Collage" width="100%" src="https://github.com/VioletSpace/VioletSpace/blob/main/IonSolver-collage.jpg?raw=true">
   </a>
 </p>
 
