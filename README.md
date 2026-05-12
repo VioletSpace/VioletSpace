@@ -9,10 +9,11 @@ My current project is:
     <!--<img src="https://github.com/PipInSpace/IonSolver/raw/main/icons/LogoIonSolver.png?raw=true" width="80%"/>-->
     <!--![CardClearDark](https://github.com/PipInSpace/PipInSpace/assets/79136709/9d6f3849-6caa-4419-b5c9-dc44affa8178)-->
     <!--![CardClearLight](https://github.com/PipInSpace/PipInSpace/assets/79136709/228f0279-a389-42de-a62d-15177ee31db7)-->
-    <picture>
+    <!--<picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VioletSpace/VioletSpace/assets/79136709/9d6f3849-6caa-4419-b5c9-dc44affa8178">
       <img alt="IonSolver logo" width="80%" src="https://github.com/VioletSpace/VioletSpace/assets/79136709/228f0279-a389-42de-a62d-15177ee31db7">
-    </picture>
+    </picture>-->
+     <img alt="IonSolver Collage" width="100%" src="https://github.com/VioletSpace/VioletSpace/blob/main/IonSolver-collage.png?raw=true">
   </a>
 </p>
 
@@ -31,7 +32,7 @@ conducting fluids like plasma in strong external electric and magnetic fields.<b
 
 I currently focus on high performance computing with Rust + OpenCL and GPU acceleration for physics simulations.
 I have mainly worked with Rust, OpenCL C, C# and Java as well as HTML/CSS/JS for web developement. I have experimented with game development using C# and the Unity and Godot game engines.
-I am very interested in physics, with a focus on astrophysics and magnetohydrodynamics.<br>
+I am studying physics, with a focus on astrophysics and magnetohydrodynamics.<br>
 <br>
 
 <p align="center">
@@ -40,5 +41,5 @@ I am very interested in physics, with a focus on astrophysics and magnetohydrody
 </p>
 <br>
 <p align="center">
-  <a href="https://violetspace.github.io/">My Website 💜</a>
+  <a href="https://violetspace.github.io/">My Website</a>
 </p>
